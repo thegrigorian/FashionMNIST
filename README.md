@@ -1,0 +1,2 @@
+# FashionMNIST
+In this project we will be training a convolutional neural network model to classify images of clothing, like sneakers and shirts from theFashion MNIST dataset which contains 70,000 grayscale images in 10 categories. The images show individual articles of clothing at low resolution (28 by 28 pixels).We will use 60,000 images to train the network and 10,000 images to test how accurately the network learned to classify images. During the project keras package will be used.
